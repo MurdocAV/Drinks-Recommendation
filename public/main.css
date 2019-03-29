@@ -1,3 +1,12 @@
+/* 
+Colour Theme:
+  Green shade: rgba(153,184,152)
+  Cream shade: rgba(254,206,168)
+  Pink Shade: rgba(255,132,124)
+  Red/Rose Shade: rgba(232,74,95)
+  Dark Navy Shade: rgba(42,54,59)
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Rubik');
 * {
   font-family: 'Rubik', sans-serif;

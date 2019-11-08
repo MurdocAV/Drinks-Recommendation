@@ -2,8 +2,8 @@ Group project from week 2 in Dev Academy.
 
 Learned using:
 
-Partials
-Handlebars (Front-End Framework for reusing/simplifying HTML markup)
+- Partials
+- Handlebars (Front-End Framework for reusing/simplifying HTML markup)
 
 A public version is accessible on Horoku: 
 https://ajpmi-drinks.herokuapp.com/drink
